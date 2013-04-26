@@ -1,0 +1,810 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CONNE",
+				"CONNECTION"
+			],
+			[
+				"DAE",
+				"DAEMON"
+			],
+			[
+				"glo",
+				"globals	(builtin, function)"
+			],
+			[
+				"Im",
+				"ImportError  (class)"
+			],
+			[
+				"exe",
+				"except	(keyword, instance)"
+			],
+			[
+				"Da",
+				"DaemonWorker  (class)"
+			],
+			[
+				"Q",
+				"Queue	(imported, instance)"
+			],
+			[
+				"MA",
+				"MAP	(global, instance)"
+			],
+			[
+				"D",
+				"DaemonWorker  (class)"
+			],
+			[
+				"Rc",
+				"RconConnection  (class)"
+			],
+			[
+				"connec",
+				"connection  (module)"
+			],
+			[
+				"Main",
+				"MainWindow"
+			],
+			[
+				"rc",
+				"rconui  (module)"
+			],
+			[
+				"linee",
+				"lineEditPSWD  (variable)"
+			],
+			[
+				"line",
+				"lineEditPORT"
+			],
+			[
+				"li",
+				"lineEditIP"
+			],
+			[
+				"upda",
+				"updateSTATUS  (function)"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"test",
+				"test2  (module)"
+			],
+			[
+				"tes",
+				"test2  (module)"
+			],
+			[
+				"set",
+				"setItem"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"ti",
+				"timeForLog"
+			],
+			[
+				"da",
+				"datetime  (class)"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"_",
+				"_stoped"
+			],
+			[
+				"__ini",
+				"__init__  (function)"
+			],
+			[
+				"thr",
+				"threading  (module)"
+			],
+			[
+				"de",
+				"setDaemon  (function)"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"lis",
+				"listGAMETYPES  (variable)"
+			],
+			[
+				"pus",
+				"pushButtonCHANGEMAP  (variable)"
+			],
+			[
+				"GE",
+				"GAMETYPES"
+			],
+			[
+				"ma",
+				"listMAPS  (variable)"
+			],
+			[
+				"p",
+				"pushButtonCHANGEMAP  (variable)"
+			],
+			[
+				"MAP",
+				"MAPS"
+			],
+			[
+				"la",
+				"labelMAP  (variable)"
+			],
+			[
+				"ser",
+				"SERVERSTATUS"
+			],
+			[
+				"reso",
+				"response"
+			],
+			[
+				"P",
+				"SkipTest  (class)"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"Ga",
+				"GAMETYPES"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"btn",
+				"btnstatus  (variable)"
+			],
+			[
+				"con",
+				"CONNECTION"
+			],
+			[
+				"conne",
+				"connection"
+			],
+			[
+				"cl",
+				"clicked"
+			],
+			[
+				"Qt",
+				"QtGui"
+			],
+			[
+				"qt",
+				"QtCore"
+			],
+			[
+				"co",
+				"connect	Signal/Slot >> Odl Syntax"
+			],
+			[
+				"par",
+				"parseServerInfo"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"play",
+				"PLAYERS"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"rcon",
+				"rcon_password"
+			],
+			[
+				"parse",
+				"parseStatus"
+			],
+			[
+				"send",
+				"sendRaw  (function)"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"so",
+				"sock"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "models/connection.py",
+			"settings":
+			{
+				"buffer_size": 2721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/main.py",
+			"settings":
+			{
+				"buffer_size": 246,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/parsers.py",
+			"settings":
+			{
+				"buffer_size": 1673,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/threads.py",
+			"settings":
+			{
+				"buffer_size": 2358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/log.py",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/players.py",
+			"settings":
+			{
+				"buffer_size": 484,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "run.py",
+			"settings":
+			{
+				"buffer_size": 361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/gui.py",
+			"settings":
+			{
+				"buffer_size": 14441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pyrcon.log",
+			"settings":
+			{
+				"buffer_size": 22566,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/python3.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wolf/Dropbox/rcon/models/__init__.py",
+		"/home/wolf/Dropbox/rcon/pyrconlog.log",
+		"/home/wolf/Dropbox/rcon/models/gui.py",
+		"/home/wolf/Dropbox/rcon/run.py",
+		"/home/wolf/Dropbox/rcon/connect.py",
+		"/home/wolf/.config/sublime-text-2/Packages/SublimeRope/SublimeRope.sublime-settings",
+		"/home/wolf/Dropbox/rcon/models.py",
+		"/home/wolf/Dropbox/rcon/models/const.py",
+		"/home/wolf/Dropbox/rcon/models/players.py",
+		"/home/wolf/Dropbox/rcon/test2.py",
+		"/home/wolf/Dropbox/rcon/parser.py",
+		"/home/wolf/Dropbox/rcon/rconui.py",
+		"/home/wolf/Dropbox/rcon/rconui2.py",
+		"/home/wolf/Dropbox/rcon/rconui1.py",
+		"/home/wolf/Dropbox/rcon/gui.py",
+		"/home/wolf/Dropbox/rcon/file.txt",
+		"/home/wolf/code/rcon/rconui.ui",
+		"/home/wolf/code/rcon/__init__.py",
+		"/home/wolf/code/rcon/gui.py",
+		"/home/wolf/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/wolf/.config/sublime-text-2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/home/wolf/.config/sublime-text-2/Packages/PySide/SublimePySide.sublime-settings",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/reasons.cfg",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/maps.cfg",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/groups.cfg",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/plugins/badwords.lst",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/plugins/banner.lst",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/maps/mp_example.rcon",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/maps/default.rcon",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/maps/default.cfg",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/loadable/off.cfg",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/loadable/allweapons.cfg",
+		"/home/wolf/code/adminmod/classes/mysql_stmt.class.php",
+		"/home/wolf/code/adminmod/classes/parser.class.php",
+		"/home/wolf/code/adminmod/config_codmw2 RENAME TO config IF CoDMW2/admins.cfg",
+		"/home/wolf/code/adminmod/classes/parser_ftp.class.php",
+		"/home/wolf/code/adminmod/plugins/tcp_query.php",
+		"/home/wolf/code/adminmod/plugins/pingkicker.php",
+		"/home/wolf/.config/sublime-text-2/Packages/User/python3.sublime-build",
+		"/home/wolf/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/wolf/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/wolf/.config/sublime-text-2/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/wolf/code/adminmod/classes/q3query.class.php",
+		"/home/wolf/code/adminmod/daemon.php",
+		"/home/wolf/code/rcon/test2.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"maps",
+			"gamety",
+			"map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "models/connection.py",
+					"settings":
+					{
+						"buffer_size": 2721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2333,
+								2333
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1098.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "models/main.py",
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "models/parsers.py",
+					"settings":
+					{
+						"buffer_size": 1673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "models/threads.py",
+					"settings":
+					{
+						"buffer_size": 2358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1920,
+								1920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 415.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "models/log.py",
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "models/players.py",
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "run.py",
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "models/gui.py",
+					"settings":
+					{
+						"buffer_size": 14441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3138.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "pyrcon.log",
+					"settings":
+					{
+						"buffer_size": 22566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7695.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 89.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gu",
+				"models/gui.py"
+			],
+			[
+				"gui",
+				"models/gui.py"
+			],
+			[
+				"th",
+				"models/threads.py"
+			],
+			[
+				"mogu",
+				"models/gui.py"
+			],
+			[
+				"mo/gu",
+				"models/gui.py"
+			],
+			[
+				"models/",
+				"models/parsers.py"
+			],
+			[
+				"co",
+				"rcon/connect.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 129.0,
+	"status_bar_visible": true
+}
