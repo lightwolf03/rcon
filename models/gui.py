@@ -251,10 +251,6 @@ class MainWindow(QtGui.QWidget, Ui_Form):
         for gt in GAMETYPES.values():
             self.listGAMETYPES.addItem(gt)
         ################
-        self.lineEditIP.setText('192.168.0.101')
-        self.lineEditPORT.setText('28960')
-        self.lineEditPSWD.setText('04101963')
-        ################
         self.pushButtonCONNECT.clicked.connect(lambda: self.connectRCON(self.lineEditIP.text(), self.lineEditPORT.text(), self.lineEditPSWD.text()))
         self.pushButtonDISCONNECT.clicked.connect(lambda: self.disconnectRCON())
         self.pushButtonCHANGEMAP.clicked.connect(lambda: VARS.worker.do(lambda: self.changeMap(self.listMAPS.currentText())))
