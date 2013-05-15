@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from models.gui import MainWindow
 from models.const import VARS
 from PySide import QtGui

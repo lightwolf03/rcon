@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'rconui.ui'
-#
-# Created: Fri Apr 12 19:47:27 2013
-#      by: pyside-uic 0.2.13 running on PySide 1.1.1
-#
-# WARNING! All changes made in this file will be lost!
-
 from PySide import QtCore, QtGui
 from models.const import MAPS, GAMETYPES
 from models.threads import Daemon
@@ -251,6 +244,14 @@ class MainWindow(QtGui.QWidget, Ui_Form):
         for gt in GAMETYPES.values():
             self.listGAMETYPES.addItem(gt)
         ################
+        self.lineEditIP.setText('192.168.0.101')
+        self.lineEditPORT.setText('28960')
+        self.lineEditPSWD.setText('04101963')
+        self.pushButtonDISCONNECT.setEnabled(False)
+        self.pushButtonCHANGEGT.setEnabled(False)
+        self.pushButtonCHANGEMAP.setEnabled(False)
+        self.tab_8.setEnabled(False)
+        ################
         self.pushButtonCONNECT.clicked.connect(lambda: self.connectRCON(self.lineEditIP.text(), self.lineEditPORT.text(), self.lineEditPSWD.text()))
         self.pushButtonDISCONNECT.clicked.connect(lambda: self.disconnectRCON())
         self.pushButtonCHANGEMAP.clicked.connect(lambda: VARS.worker.do(lambda: self.changeMap(self.listMAPS.currentText())))
@@ -274,6 +275,9 @@ class MainWindow(QtGui.QWidget, Ui_Form):
         self.lineEditPSWD.setEnabled(False)
         self.pushButtonCONNECT.setEnabled(False)
         self.pushButtonDISCONNECT.setEnabled(True)
+        self.pushButtonCHANGEGT.setEnabled(True)
+        self.pushButtonCHANGEMAP.setEnabled(True)
+        self.tab_8.setEnabled(True)
         log("socket connected, daemon started")
         VARS.daemon.start()
 
@@ -286,6 +290,9 @@ class MainWindow(QtGui.QWidget, Ui_Form):
         self.lineEditPSWD.setEnabled(True)
         self.pushButtonCONNECT.setEnabled(True)
         self.pushButtonDISCONNECT.setEnabled(False)
+        self.pushButtonCHANGEGT.setEnabled(False)
+        self.pushButtonCHANGEMAP.setEnabled(False)
+        self.tab_8.setEnabled(False)
         self.labelMAP.setText("not connected")
         self.labelGT.setText("not connected")
         VARS.daemon.stop()
